@@ -1,6 +1,6 @@
-##Stolen bikes in Munich
+## Stolen bikes in Munich
 
-##Technival Information:
+## Technival Information:
 **React.js**
 **Typescript** 
 **Tailwind CSS**
