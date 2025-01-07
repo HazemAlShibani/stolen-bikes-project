@@ -7,5 +7,5 @@
 - **React-query** <br/>
 - **React-icons** <br/>
 
-All the requirements for implementing the test have been completed...
+All the requirements for implementing the test have been completed... <br/>
 Note: I utilize Rect-query for data caching which enhances user experinse.
